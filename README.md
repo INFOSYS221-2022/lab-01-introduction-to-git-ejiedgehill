@@ -6,5 +6,6 @@ In this lab, we will introduce the basics of working with local and remote repos
 
 Follow the instructions in your canvas lab assessment for this activity
 
-###I am updating the readme
-This should have added a title as well as this sentence beneath the "updating readme" title.
+### Updating the readme file
+
+**Followed the instructions** and even *played around* with the text styling. Maybe I shouldn't ask this question: ~~Is this A+ worthy?~~
